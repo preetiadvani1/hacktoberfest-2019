@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Preeti Advani](https://github.com/preetiadvani1)
+- Place: Ajmer, India
+-Bio: Student
+-GitHub: preetiadvani1(https://github.com/preetiadvani1)
